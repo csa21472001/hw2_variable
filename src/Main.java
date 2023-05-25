@@ -2,9 +2,10 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        task1();
+        System.out.println("ДЗ Переменные");
+        }  }/*         task1();
         task2();
-        task3();
+        task3();//hhlkjjhliuh
         task4();
             task5();
             task6();
@@ -44,15 +45,12 @@ public class Main {
     public static void task4() {
         System.out.println("Задача 4");
         var friend = 19;
-       /* var cat = 3.6;
-        var paper = 763789;*/
         System.out.println(friend);
         friend = friend*2;
         System.out.println(friend);
         friend =  friend/7;
         System.out.println(friend);
     }
-
     public static void task5() {
         System.out.println("Задача 5");
         var frog = 3.5;
@@ -90,3 +88,4 @@ public class Main {
         System.out.println("Если в компании работает " + workersAmount_2 + " человек, то всего " + workingHours + " часов работы может быть поделено между сотрудниками");
     }
 }
+*/
