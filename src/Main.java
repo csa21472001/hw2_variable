@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("ДЗ Переменные");
-        }  }/*         task1();
+        }  }/*         task1();4
         task2();
         task3();//hhlkjjhliuh
         task4();
