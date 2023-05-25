@@ -2,11 +2,11 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("ДЗ Переменные");}}
-    /*
+        System.out.println("ДЗ Переменные");
+
         task1();
         task2();
-        task3();//hhlkjjhliuh
+        task3();
         task4();
             task5();
             task6();
@@ -89,4 +89,3 @@ public class Main {
         System.out.println("Если в компании работает " + workersAmount_2 + " человек, то всего " + workingHours + " часов работы может быть поделено между сотрудниками");
     }
 }
-*/
