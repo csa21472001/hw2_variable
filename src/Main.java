@@ -2,17 +2,14 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("ДЗ Переменные");
-
         task1();
         task2();
         task3();
         task4();
-            task5();
-            task6();
-            task7();
-            task8();
-
+        task5();
+        task6();
+        task7();
+        task8();
     }
 
     public static void task1() {
